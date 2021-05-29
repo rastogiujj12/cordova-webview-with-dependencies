@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "NPM",
+  "short_name": "NPM",
+  "version": "com.example.hello",
+  "description": "NPM demo app",
+  "author": "Setu Technology",
+  "icons": [],
+  "start_url": "index.html"
+}
